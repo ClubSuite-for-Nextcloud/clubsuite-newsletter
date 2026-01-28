@@ -21,10 +21,10 @@ Erfordert ClubSuite Core und konfigurierte E-Mail-Einstellungen in Nextcloud.]]>
     <author>Stefan Schulz</author>
     <namespace>ClubSuiteNewsletter</namespace>
     <category>organization</category>
-    <website>https://github.com/clubsuite/clubsuite-newsletter</website>
-    <bugs>https://github.com/clubsuite/clubsuite-newsletter/issues</bugs>
-    <repository type="git">https://github.com/clubsuite/clubsuite-newsletter.git</repository>
-    <screenshot>https://raw.githubusercontent.com/clubsuite/clubsuite-newsletter/main/screenshots/editor.png</screenshot>
+    <website>https://github.com/ClubSuite-for-Nextcloud/clubsuite-newsletter</website>
+    <bugs>https://github.com/ClubSuite-for-Nextcloud/clubsuite-newsletter/issues</bugs>
+    <repository type="git">https://github.com/ClubSuite-for-Nextcloud/clubsuite-newsletter.git</repository>
+    <screenshot>https://raw.githubusercontent.com/ClubSuite-for-Nextcloud/clubsuite-newsletter/main/screenshots/editor.png</screenshot>
     <dependencies>
         <nextcloud min-version="28" max-version="32" />
         <php min-version="8.1" max-version="8.3" />

@@ -26,7 +26,7 @@ ClubSuite Newsletter vereinfacht Ihre Mitgliederkommunikation:
 ### Manuelle Installation
 ```bash
 cd /path/to/nextcloud/apps
-git clone https://github.com/clubsuite/clubsuite-newsletter.git
+git clone https://github.com/ClubSuite-for-Nextcloud/clubsuite-newsletter.git
 php occ app:enable clubsuite-newsletter
 ```
 
@@ -51,7 +51,7 @@ AGPL v3 – Siehe [LICENSE](LICENSE)
 
 ## 🐛 Bugs & Feature Requests
 
-[GitHub Issues](https://github.com/clubsuite/clubsuite-newsletter/issues)
+[GitHub Issues](https://github.com/ClubSuite-for-Nextcloud/clubsuite-newsletter/issues)
 
 ---
 
