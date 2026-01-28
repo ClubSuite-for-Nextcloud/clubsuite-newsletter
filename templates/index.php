@@ -1,0 +1,1 @@
+<div id="clubsuite-newsletter"></div>

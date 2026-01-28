@@ -1,0 +1,9 @@
+{
+  "translations": {
+    "appName": "Newsletter",
+    "campaigns": "Campaigns",
+    "recipients": "Recipients",
+    "editor": "Editor"
+  },
+  "pluralForm": "nplurals=2; plural=(n != 1);"
+}
